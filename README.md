@@ -58,3 +58,7 @@ Hi, my name is [name]. I live in [city/district]. My monthly salary is 70,000 TL
 ## Example Output
 
 The agent detects sensitive information, evaluates privacy risk, and suggests an anonymized safer version of the text.
+
+## Demo
+
+![Privacy-Aware LLM Agent Demo](assets/demo.png)
