@@ -39,7 +39,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4 Create a `.env` file:
+4. Create a `.env` file:
 
 ```bash
 GROQ_API_KEY=your_groq_api_key
